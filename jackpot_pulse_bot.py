@@ -6,7 +6,7 @@ import json
 import os
 import shutil
 
-TOKEN = '7102389575:AAHMc_209ElVL5Qlv7-bLhCkMIiVD9T8Obw'
+TOKEN = '7102389575:AAHK2Bryn-dxzZSPQTvfZ5W5A8_fGSGMjcc'
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')
 
 sponsor_channels = [
